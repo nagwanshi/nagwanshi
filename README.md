@@ -17,11 +17,12 @@ I focus on writing **clean, maintainable code** and building **scalable user int
 
 ---
 
-## 🚧 Currently Working On
+## 📚 Currently Learning
 
-- Improving **frontend engineering fundamentals**
-- Building **production-ready React applications**
-- Practicing **JavaScript problem solving**
+- **Next.js** for full-stack React applications
+- **Backend development** and API design
+- **System design fundamentals**
+- **Software engineering principles** and best practices
 
 
 ## 🌐 Socials:
