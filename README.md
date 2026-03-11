@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hey there! 👋
 
 I'm **Sapna**, a **Frontend Software Engineer** with experience building web applications using **JavaScript, React, and modern frontend tools**.
