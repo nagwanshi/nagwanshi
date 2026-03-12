@@ -8,17 +8,7 @@ Currently I am building a clone lodash library ([mini-lodash](https://github.com
 
 ---
 
-## ⚙️ Engineering Focus
-
-- Building reusable **UI components**
-- Developing **responsive web interfaces**
-- Writing **maintainable React code**
-- Debugging and optimizing **frontend performance**
-- Integrating **APIs** into frontend applications
-
----
-
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 - **Next.js** for full-stack React applications
 - **Backend development** and API design
