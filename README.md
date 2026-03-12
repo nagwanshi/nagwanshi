@@ -4,6 +4,8 @@ I'm **Sapna**, a **Frontend Software Engineer** with experience building web app
 
 I focus on writing **clean, maintainable code** and building **scalable user interfaces**.
 
+Currently I am building a clone lodash library ([mini-lodash](https://github.com/nagwanshi/mini-lodash) )  to deepen my understanding of JavaScript, TypeScript and Test Driven Development.
+
 ---
 
 ## ⚙️ Engineering Focus
